@@ -39,6 +39,6 @@
     Протестировать слой Bll (NUnit и Moq фреймворки).
     
     ## Реализация 
-    1. - [Решение](https://github.com/arinkarus/NET1.S.2019.Chemrukova.22)
-    2. - [Решение](https://github.com/arinkarus/NET1.S.2019.Chemrukova.23-24)
+    1. [Решение](https://github.com/arinkarus/NET1.S.2019.Chemrukova.22)
+    2. [Решение](https://github.com/arinkarus/NET1.S.2019.Chemrukova.23-24)
     
